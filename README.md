@@ -1,10 +1,5 @@
 <img src="https://thumbs.gfycat.com/UniquePlushBird-size_restricted.gif" width="1070" height="500">
 
-
-## About me
-
-Some information about me.
-
 ### 📋 Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
