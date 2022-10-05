@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="200" height="400" />
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118b26bf69b8517cc68b5f20b9b723e76071819b29&rid=giphy.gif&ct=g" width="200" height="400" />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JefJacobs00&theme=radical)](https://git.io/streak-stats)
