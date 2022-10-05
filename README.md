@@ -1,6 +1,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JefJacobs00&theme=radical&card_width=500"> <img src="https://github-readme-stats.vercel.app/api?username=JefJacobs00&count_private=true&theme=radical&card_width=250&custom_title=Stats">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefJacobs00&layout=compact&theme=radical)
 
 
 <br>
