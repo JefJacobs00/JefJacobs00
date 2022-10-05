@@ -1,6 +1,3 @@
-
-# Hello There
-
 <img src="https://thumbs.gfycat.com/UniquePlushBird-size_restricted.gif" width="1070" height="500">
 
 
