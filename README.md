@@ -1,7 +1,8 @@
-![Image](https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif)
+![Image](https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif | width=100)
 
-- 🔭 I’m currently working on a very fun project with the Intransmit team
-- 📫 How to reach me: Linkedin or Discord
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JefJacobs00&theme=radical)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JefJacobs00&count_private=true&theme=radical)
 
 
 ## 📋 Languages
@@ -40,9 +41,7 @@
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
       
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JefJacobs00&theme=radical)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JefJacobs00&count_private=true&theme=radical)
 
 
 
