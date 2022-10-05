@@ -1,8 +1,9 @@
-### Hi there 👋
+
+
+
 
 ## 📋 Languages
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JefJacobs00&theme=radical)](https://git.io/streak-stats)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -22,6 +23,8 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JefJacobs00&theme=radical)](https://git.io/streak-stats)
 
 
 
