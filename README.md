@@ -40,7 +40,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JefJacobs00&theme=radical)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JefJacobs00&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JefJacobs00&count_private=true&theme=radical)
 
 
 
