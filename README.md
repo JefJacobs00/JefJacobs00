@@ -1,3 +1,5 @@
+![Image](https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif)
+
 - 🔭 I’m currently working on a very fun project with the Intransmit team
 - 📫 How to reach me: Linkedin or Discord
 
