@@ -1,10 +1,14 @@
 
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118b26bf69b8517cc68b5f20b9b723e76071819b29&rid=giphy.gif&ct=g" width="800" height="550" />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JefJacobs00&theme=radical)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JefJacobs00&count_private=true&theme=radical)
+<img src="[https://github.com/favicon.ico](https://github-readme-stats.vercel.app/api?username=JefJacobs00&count_private=true&theme=radical)" width="400">
+
+<br>
+<br>
+<br>
+<br>
 
 
 ## 📋 Languages
