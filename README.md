@@ -1,5 +1,5 @@
 ![Image](https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif | width=100)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JefJacobs00&theme=radical)](https://git.io/streak-stats)
 
