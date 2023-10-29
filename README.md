@@ -9,7 +9,8 @@ Hi, I'm Jef. I'm passionate about software development and cyber security. Explo
 
 ## 🌱 I’m currently learning 
 
-🔐 I'm currently on a cybersecurity learning adventure, and I absolutely love tackling challenging Capture The Flag (CTF) puzzles! 🚀
+🔐 I'm currently on a cyber security learning adventure, and I absolutely love tackling challenging Capture The Flag (CTF) puzzles! 🚀
+I'm also learning Quasar to build impressive and dynamic user interfaces. 🚀📚
 
 ## Technologies I Work With
 
