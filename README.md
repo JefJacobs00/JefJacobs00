@@ -4,7 +4,8 @@ Hi, I'm Jef. I'm passionate about software development and cyber security. Explo
 
 ## :book: About Me
 
-- 🖥 Software developer
+- 🚀 Topstarter @ Planet Talent
+- 🔐 Security Engineer @ ILIAS Solutions
 - 🎓 Industrial engineering Electronics & ICT @ KU Leuven
 
 ## 🌱 I’m currently learning 
