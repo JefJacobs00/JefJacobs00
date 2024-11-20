@@ -6,7 +6,7 @@ Hi, I'm Jef. I'm passionate about software development and cyber security. Explo
 
 - 🚀 PhD student @ Distrinet KuLeuven
 - 🔐 Software security for embedded applications 
-- 🎓 Masters in Industrial engineering Electronics & ICT @ KU Leuven
+- 🎓 Master in Industrial engineering Electronics & ICT @ KU Leuven
 
 ## 🌱 I’m currently learning 
 
