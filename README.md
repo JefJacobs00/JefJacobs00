@@ -1,10 +1,17 @@
 # Welcome to My GitHub Profile 👋
 
-- 🚀 PhD student @ Distrinet KuLeuven
+- 🚀 PhD student @ Distrinet@Gent
 - 🔐 Software security (for embedded applications)
-- 🎓 Master in Industrial engineering Electronics & ICT @ KU Leuven
+- 🎓 Master in Industrial Engineering Electronics & ICT @ KU Leuven
+
+# Projects
+
+- <a href="https://github.com/angr-debugging/dAngr">dAngr</a>: A symbolic debugger, specifically for binary analysis.
+- <a href="https://github.com/JefJacobs00/Local-LLMs-4-Bash">NL2Bash</a>: A study on oss language models and how they perform on basic tasks in a bash environment.
+
 
  <a href="https://www.linkedin.com/in/jef-jacobs-76943416b/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+
 
 <details>
   <summary>Publications...</summary>
